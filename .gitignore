@@ -1,0 +1,15 @@
+# ****Eclispe***********#
+.classpath
+.project
+.settings
+
+# *****Maven******#
+log/
+target/
+
+# ***Java******#
+
+*.jar
+*.war
+*.zip
+
